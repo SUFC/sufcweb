@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -607,18 +607,18 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-h",
+          "_anchor": "feed-i",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "youtube": "",
-            "facebook": "https://en-gb.facebook.com/Skelton-United-Football-Club-168236499868665/?ref=page_internal",
+            "facebook": "https://www.facebook.com/Skelton-United-Football-Club-168236499868665/",
             "twitter": "",
             "google": "",
             "postToLoad": 3,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
