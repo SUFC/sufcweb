@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "team2",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -741,7 +741,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": 2,
+            "paddingTop": "4",
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": true,
