@@ -484,6 +484,15 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#features3-r H4 {
+  color: #ffffff;
+}
+#features3-r P {
+  color: #ffffff;
+}
+#features3-r H5 {
+  color: #ffffff;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -755,6 +764,12 @@ h6,
 #menu-j .close-icon::before,
 #menu-j .close-icon::after {
   background-color: #ffffff;
+}
+#features3-p H4 {
+  color: #ffffff;
+}
+#features3-p P {
+  color: #ffffff;
 }
 #menu-s .hide-buttons .nav-btn {
   display: none !important;

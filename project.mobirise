@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -20,7 +20,9 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 35,
@@ -51,7 +53,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pitch-236x160.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pitch-300x186.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -189,10 +191,10 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x850.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -267,16 +269,16 @@
             }
           },
           "title1": "FA Charter Standard Club",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "Qualified coaches",
           "caption1": "Find Out More About us",
           "title2": "Boys Teams",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "All ages and abilities catered for",
           "caption2": "Take a look at the boys section",
           "title3": "Girls Teams",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Girls football is a fast growing sport",
           "caption3": "Take a look at the girls section",
           "title4": "Female Football Factory",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "Gives girls the freedom to develop",
           "caption4": "<p>See our Female&nbsp;football factory&nbsp;</p>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -294,7 +296,18 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-r"
+          "_anchor": "features3-r",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -731,15 +744,15 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
-            "postToLoad": 3,
+            "postToLoad": "5",
             "facebook": "https://www.facebook.com/Skelton-United-Football-Club-168236499868665/",
             "twitter": "",
             "google": "",
             "youtube": "",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x850.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": 0.6
@@ -872,10 +885,10 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x850.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -977,7 +990,15 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-p"
+          "_anchor": "features3-p",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
