@@ -498,11 +498,11 @@ h6,
   color: #ffffff;
 }
 #menu-6 .link {
-  font-size: 0.75rem;
+  font-size: 1.15rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.245rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -569,11 +569,11 @@ h6,
   color: #ffffff;
 }
 #menu-a .link {
-  font-size: 0.75rem;
+  font-size: 1.15rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.245rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -636,11 +636,11 @@ h6,
   color: #ffffff;
 }
 #menu-d .link {
-  font-size: 0.75rem;
+  font-size: 1.15rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.245rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
