@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "team2",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -887,34 +887,50 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x191.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x187.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x185.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x188.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
