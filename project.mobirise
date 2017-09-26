@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 176,
+    "uniqCompNum": 177,
     "versionPublish": "4.3.1"
   },
   "pages": {
@@ -858,7 +858,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85044.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85049.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -872,7 +872,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19140.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19145.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,7 +884,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18741.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18746.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +896,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18542.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18547.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -908,7 +908,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18843.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18848.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8193,7 +8193,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85044.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85049.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8207,7 +8207,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19140.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19145.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8219,7 +8219,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18741.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18746.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8231,7 +8231,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18542.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18547.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8243,7 +8243,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18843.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18848.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8373,6 +8373,26 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4w"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -8484,7 +8504,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
