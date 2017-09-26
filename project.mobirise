@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page16.html",
+    "currentPage": "page24.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -858,7 +858,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8509.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -872,7 +872,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,7 +884,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +896,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1857.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -908,7 +908,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1888.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8069,10 +8069,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do;jsessionid=8AC220666F3D411CB81E8F08A615979C?psSelectedSeason=196168829&amp;psSelectedDivision=974565197&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=464084390&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page19.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -8193,7 +8193,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8509.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8207,7 +8207,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8219,7 +8219,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8231,7 +8231,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1857.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8243,7 +8243,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1888.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8287,10 +8287,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page21.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page22.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page23.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
