@@ -858,7 +858,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85044.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -872,7 +872,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19140.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,7 +884,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18741.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +896,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18542.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -908,7 +908,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18843.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8193,7 +8193,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85044.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8207,7 +8207,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19140.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8219,7 +8219,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18741.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8231,7 +8231,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18542.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8243,7 +8243,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18843.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8501,7 +8501,7 @@
           },
           "title": "Club Shop",
           "text": "Coaches only shop for Coaches and Players Kit",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Club Shop</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Respect Codes of Conduct.pdf\" data-toolbar=\"-mbrBtnMove\">Club Shop</a>",
           "_tags": [
             "Theme"
           ],
