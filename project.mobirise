@@ -722,7 +722,7 @@
           "title2": "U10 Girls",
           "subtitle2": "Improvers",
           "caption2": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>Click below to find more details about this team",
-          "title3": "U12 Girls Lionesses",
+          "title3": "U12 &nbsp;Lionesses",
           "subtitle3": "Lionesses",
           "caption3": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>Click below to find more details about this team<br>",
           "title4": "U12 Girls Reds",
@@ -858,7 +858,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85019.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -872,7 +872,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19115.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,7 +884,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18716.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +896,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18517.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -908,7 +908,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18818.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2926,7 +2926,7 @@
           "caption1": "Manager : Jason Hambley<br><br>Asst Coach : TBC",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "TBA<br><br>&nbsp;",
+          "caption2": "Team is currently in development<br><br>&nbsp;",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -8193,7 +8193,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85019.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8207,7 +8207,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19115.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8219,7 +8219,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18716.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8231,7 +8231,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18517.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8243,7 +8243,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18818.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
