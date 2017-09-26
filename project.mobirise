@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page11.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -858,7 +858,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8504.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8509.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -872,7 +872,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1915.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,7 +884,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1876.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +896,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1857.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -908,7 +908,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1883.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1888.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -998,7 +998,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "teampage u12g Lionesses",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1632,7 +1632,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "teampage u10g",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2809,7 +2809,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "teampage u8g",
-        "order": 10
+        "order": 8
       },
       "components": [
         {
@@ -2926,7 +2926,7 @@
           "caption1": "Manager : Jason Hambley<br><br>Asst Coach : TBC",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Mondays 6pm - 7 pm Debrus Site<br><br>&nbsp;",
+          "caption2": "TBA<br><br>&nbsp;",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -3158,7 +3158,7 @@
           "caption1": "North Riding and Tees Valley Girls Leagues \n<br>\n<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
           "title2": "Team Sponsorss",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We would like to thank our Team Sponsors<br><br><b>We are looking for sponsors for this team&nbsp;</b><br><br>Great sponsors help make great teams<br>Click this button to visit our Sponsors website.",
+          "caption2": "We would like to thank our Team Sponsors<br><br><b>We are looking for sponsors for this team&nbsp;</b><br><br>Great sponsors help make great teams<br>Click this button for information on sponsorship",
           "title3": "",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -3405,7 +3405,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p>We will use your logos<span style=\"font-size: 1.07rem;\">&nbsp;on playing&nbsp;</span></p><p>or training kit and other playing equipment.</p><p><br></p><p>Our club website is the first place&nbsp;</p><p>members (or indeed anyone wanting to\r</p><p>learn about the club) will head in the\r</p><p>technological age. &nbsp;</p><p>We will put your logos and links to your website on relevant web pages.within our site.</p>",
-          "text2": "<p>With eighteen teams and a squad size of 16 per team, our members and their families make a great audience for your goods and services. &nbsp;Multiply that by the number of teams that play at our grounds or see our kits at away matches and this multiplies into thousands of people seeing your brand linked with junior sport.</p>",
+          "text2": "<p>With eighteen teams and a squad sizes of 10-20 per team, our members and their families make a great audience for your goods and services. &nbsp;Multiply that by the number of teams that play at our grounds or see our kits at away matches and this multiplies into thousands of people seeing your brand linked with junior sport.</p>",
           "_tags": [
             "Theme"
           ],
