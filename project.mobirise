@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page24.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -858,7 +858,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85029.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -872,7 +872,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19125.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,7 +884,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18726.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +896,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18527.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -908,7 +908,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18828.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8193,7 +8193,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85029.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8207,7 +8207,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19125.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8219,7 +8219,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18726.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8231,7 +8231,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18527.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8243,7 +8243,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18828.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
