@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "location",
-    "name": "My Site",
+    "currentPage": "page5.html",
+    "name": "SUFC",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 179,
-    "versionPublish": "4.3.1"
+    "versionPublish": "4.3.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "Skelton United FC, Football, soccer, east cleveland,north riding",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -890,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8504.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -904,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -916,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -928,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -940,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1883.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1392,7 +1396,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/Index.do?divisionseason=141794827&amp;league=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"http://www.welhamkitchens.co.uk/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -8225,7 +8229,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8504.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8239,7 +8243,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8251,7 +8255,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8263,7 +8267,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8275,7 +8279,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1883.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
