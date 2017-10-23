@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 179,
+    "uniqCompNum": 180,
     "versionPublish": "4.3.1",
     "favicon": "",
     "noImageResize": "",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85019.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19120.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18517.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18522.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18818.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18823.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4302,6 +4302,25 @@
           ],
           "_name": "header3",
           "_anchor": "header3-30"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text": "<p>Our Ladies team has grown with the club as most of the girls have been with the club since it started.</p><p>We have Ladies from all over the Teesside and East Cleveland area that play for us.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4z",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "features3",
@@ -8230,7 +8249,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85019.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8244,7 +8263,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19120.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8256,7 +8275,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8268,7 +8287,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18517.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18522.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8280,7 +8299,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18818.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18823.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
