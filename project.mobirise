@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page16.html",
+    "currentPage": "page24.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85044.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19140.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18741.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18542.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18843.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8127,13 +8127,13 @@
               "active": true
             }
           },
-          "title1": "U10 Boys",
-          "subtitle1": "x",
+          "title1": "U9 Boys",
+          "subtitle1": "Reds",
           "caption1": "TJFA Leagues  Leagues<br><br>Click below to find more details about this team",
-          "title2": "U11 Lions",
+          "title2": "U11 Boys",
           "subtitle2": "Lions",
           "caption2": "TJFA Leagues  Leagues\n<br>\n<br>Click below to find more details about this team",
-          "title3": "U11 Panthers",
+          "title3": "U11 Boys",
           "subtitle3": "Panthers",
           "caption3": "Play in the TJFA Leagues  Leagues\n<br>\n<br>Click below to find more details about this team<br><br>",
           "title4": "U12 Boys",
@@ -8269,7 +8269,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85044.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8283,7 +8283,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19140.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8295,7 +8295,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18741.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8307,7 +8307,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18542.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8319,7 +8319,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18843.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
