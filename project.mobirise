@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page15.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85019.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19115.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18716.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18517.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18818.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4397,7 +4397,7 @@
           "caption1": "Manager : Paul Dyke<br>Asst Coach : Dean McNamee<br>Asst Coach : Dan Stainthorpe",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Fridays 7 pm - 8 pm Laurence Jackson School Sports Village<br><br>Train on the 3G Astroturf pitch<br>",
+          "caption2": "Fridays 7 pm - 8 pm <br>Laurence Jackson School Sports Village<br>&nbsp;3G Astroturf pitch<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -4626,7 +4626,7 @@
           ],
           "title1": "Leagues",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "North Riding Womens Football League&nbsp;<br>\n<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
+          "caption1": "North Riding Womens Football League&nbsp;<br>\n<br><br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
           "title2": "Team Sponsorss",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "We would like to thank our Team Sponsors<br><br><b>Texon</b><br><br>Great sponsors help make great teams<br>Click this button to visit our Sponsors website.",
@@ -4657,7 +4657,8 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#000440"
+              "color": "#000440",
+              "font-size": "30px"
             }
           },
           "_anchor": "features6-34"
@@ -8229,7 +8230,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85019.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8243,7 +8244,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19115.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8255,7 +8256,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18716.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8267,7 +8268,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18517.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8279,7 +8280,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18818.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
