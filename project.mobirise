@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page15.html",
+    "currentPage": "page7.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 183,
+    "uniqCompNum": 184,
     "versionPublish": "4.3.1",
     "favicon": "",
     "noImageResize": "",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85079.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85084.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19175.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19180.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18776.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18781.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18577.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18582.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18878.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18883.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1688,6 +1688,25 @@
           "_anchor": "header3-1j"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text": "<p>Skelton Utd under 10 girls are a great friendly and polite bunch of girls. &nbsp;The coaches are friendly too and only want the best for the girls.</p><p>We are always willing to give anybody a chance whether they are experienced or not.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-53"
+        },
+        {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
@@ -1779,7 +1798,7 @@
           "caption1": "Manager : David Freer<br><br>Asst Coach : Chris Leighton",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Mondays 6pm - 7 pm Debrus Site<br><br>&nbsp;",
+          "caption2": "Mondays 6pm - 7 pm Debrus Site<br>Indoor<br><br>&nbsp;",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -2009,7 +2028,7 @@
           "caption1": "North Riding and Tees Valley Girls Leagues \n<br>\n<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
           "title2": "Team Sponsorss",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We would like to thank our Team Sponsors<br><br><b>Minersfest</b><br><br>Great sponsors help make great teams<br>Click this button to visit our Sponsors website.",
+          "caption2": "We would like to thank our Team Sponsors<br><br><b>Craig Holmes and Minersfest</b><br><br>Great sponsors help make great teams<br>Click this button to visit our Sponsors website.",
           "title3": "",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -8211,7 +8230,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85079.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85084.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8225,7 +8244,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19175.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19180.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8237,7 +8256,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18776.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18781.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8249,7 +8268,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18577.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18582.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8261,7 +8280,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18878.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18883.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
