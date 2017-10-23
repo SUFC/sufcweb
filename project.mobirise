@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8509.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1857.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1888.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -977,8 +977,8 @@
           "subtitle2": "x",
           "caption2": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>Click below to find more details about this team",
           "title3": "Ladies",
-          "subtitle3": "x",
-          "caption3": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>Click below to find more details about this team<br>",
+          "subtitle3": "&nbsp;",
+          "caption3": "North Riding Womens Football League&nbsp;<br>\n<br>Click below to find more details about this team<br>",
           "title4": "Sponsors",
           "subtitle4": "Always Welcome",
           "caption4": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>&nbsp;Click below to find more details about this team<br>&nbsp;",
@@ -8229,7 +8229,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8509.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8243,7 +8243,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19110.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8255,7 +8255,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8267,7 +8267,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1857.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18512.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8279,7 +8279,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1888.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18813.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
