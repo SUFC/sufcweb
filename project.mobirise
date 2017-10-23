@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page15.html",
+    "currentPage": "page16.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85029.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19125.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18726.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18522.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18527.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18823.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18828.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4712,7 +4712,7 @@
     "page16.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "teampage u10",
+        "title": "teampage u9 Reds",
         "order": 17
       },
       "components": [
@@ -4728,7 +4728,7 @@
             "paddingBottom": "1",
             "bgColor": "#e25041"
           },
-          "title": "u10 Boys",
+          "title": "u9 Reds",
           "meta": "",
           "_tags": [
             "Theme"
@@ -4827,10 +4827,10 @@
           ],
           "title1": "Team Officials",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Manager : Jason Hambley<br><br>Asst Coach : TBC",
+          "caption1": "Manager : Chris Twiby<br>Asst Coach : Paul Nevitt<br>Secretary : Aimee Watson",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "TBA<br><br>&nbsp;",
+          "caption2": "Fridays 5 pm - 6 pm \n<br>Laurence Jackson School Sports Village\n<br> Indoor training<br><br>&nbsp;",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -5059,10 +5059,10 @@
           ],
           "title1": "Leagues",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "North Riding and Tees Valley Girls Leagues \n<br>\n<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
+          "caption1": "<br>TJFA Division 4 <br><br>This will open a new window and navigate away <br>from SUFC website to show the <br>FA Fulltime League tables<br><br>",
           "title2": "Team Sponsorss",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We would like to thank our Team Sponsors<br><br><b>We are looking for sponsors for this team&nbsp;</b><br><br>Great sponsors help make great teams<br>Click this button for information on sponsorship",
+          "caption2": "We would like to thank our Team Sponsors<br><br><b>David Fox Transport&nbsp;</b><br><br>Great sponsors help make great teams<br>Click this button to visit our sponsors website",
           "title3": "",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -5075,8 +5075,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do;jsessionid=33AB9836A5708391747D0B56FCCE62E7?psSelectedSeason=196168829&amp;psSelectedDivision=974565197&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.tjfa.co.uk/divisions/9ba93076-4b85-473c-b70e-4e5e0f13fc33\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.davidfoxtransport.co.uk\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -5090,7 +5090,8 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#000440"
+              "color": "#000440",
+              "font-size": "30px"
             }
           },
           "_anchor": "features6-3e"
@@ -8249,7 +8250,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85029.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8263,7 +8264,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19125.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8275,7 +8276,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18726.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8287,7 +8288,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18522.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18527.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8299,7 +8300,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18823.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18828.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
