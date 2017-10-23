@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "page24.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85084.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85089.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19180.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19185.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18781.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18786.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18582.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18587.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18883.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18888.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -981,7 +981,7 @@
           "caption3": "North Riding Womens Football League&nbsp;<br>\n<br>Click below to find more details about this team<br>",
           "title4": "Sponsors",
           "subtitle4": "Always Welcome",
-          "caption4": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>&nbsp;Click below to find more details about this team<br>&nbsp;",
+          "caption4": "North Riding and Tees Valley Girls Leagues\n<br>\n<br>&nbsp;Click below to find more details about this team<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -8230,7 +8230,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85084.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85089.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8244,7 +8244,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19180.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19185.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8256,7 +8256,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18781.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18786.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8268,7 +8268,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18582.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18587.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8280,7 +8280,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18883.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18888.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8314,7 +8314,7 @@
           "caption2": "TJFA Leagues  Leagues\n<br>\n<br>Click below to find more details about this team",
           "title3": "U15 Boys",
           "subtitle3": "x",
-          "caption3": "TJFA Leagues  Leagues\n<br>\n<br>Click below to find more details about this team<br><br>",
+          "caption3": "TJFA Leagues  Leagues\n<br>\n<br>Click below to find more details about this team<br>",
           "title4": "U16 Boys",
           "subtitle4": "Always Welcome",
           "caption4": "TJFA Leagues&nbsp;<br>&nbsp;<br>Click below to find more details about this team&nbsp;",
