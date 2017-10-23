@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page15.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -4394,10 +4394,10 @@
           ],
           "title1": "Team Officials",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Manager : Michelle Clare<br>Asst Coach : Sophie Bowers",
+          "caption1": "Manager : Paul Dyke<br>Asst Coach : Dean McNamee<br>Asst Coach : Dan Stainthorpe",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Mondays 7 pm - 8 pm Debrus Site<br><br>Thursdays 7 pm - 8 pm Debrus Site<br>",
+          "caption2": "Fridays 7 pm - 8 pm Laurence Jackson School Sports Village<br><br>Train on the 3G Astroturf pitch<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -4626,7 +4626,7 @@
           ],
           "title1": "Leagues",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "North Riding and Tees Valley Girls Leagues \n<br>\n<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
+          "caption1": "North Riding Womens Football League&nbsp;<br>\n<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
           "title2": "Team Sponsorss",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "We would like to thank our Team Sponsors<br><br><b>Texon</b><br><br>Great sponsors help make great teams<br>Click this button to visit our Sponsors website.",
@@ -4642,7 +4642,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/Index.do?league=6543615\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.texon.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
