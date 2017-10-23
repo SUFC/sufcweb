@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85069.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85074.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19165.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19170.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18766.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18771.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18567.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18572.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18868.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18873.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1418,7 +1418,7 @@
             "paddingTop": "1",
             "paddingBottom": 0,
             "postToLoad": 3,
-            "facebook": "https://m.facebook.com/groups/1450692995232208?ref=bookmarks",
+            "facebook": "https://www.facebook.com/Skelton-United-Football-Club-168236499868665/",
             "twitter": "",
             "google": "",
             "youtube": "",
@@ -8314,7 +8314,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85069.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85074.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8328,7 +8328,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19165.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19170.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8340,7 +8340,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18766.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18771.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8352,7 +8352,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18567.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18572.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8364,7 +8364,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18868.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18873.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
