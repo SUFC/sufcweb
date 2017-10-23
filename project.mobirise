@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85049.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85054.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19145.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19150.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18751.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18547.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18552.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18848.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18853.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1088,7 +1088,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1099,7 +1098,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1319,7 +1317,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1330,7 +1327,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1722,7 +1718,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1733,7 +1728,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1953,7 +1947,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -1964,7 +1957,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -2236,7 +2228,7 @@
             }
           },
           "title": "Female Football Factory",
-          "text": "Give girls a great intriduction to football with girls only training<br>by LC Sports Coaching and Female Football Factory. <br>brought to you in association with Skelton United FC.<br><br>Meet the coaches Lucy and Sophie every <br>Tuesday 6pm-7pm <br>at the DeBrus ground<br>Click below to find out more.",
+          "text": "Give girls a great intriduction to football with girls only training<br>by LC Sports Coaching and Female Football Factory. <br>brought to you in association with Skelton United FC.<br><br>Meet the coaches Lucy and Sophie every <br>Tuesday 5:30pm-6:30pm <br>at the Laurence Jackson School<br>Sports Village<br>Guisborough<br>Click below to find out more.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/FemaleFootballFactoryNE/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2289,7 +2281,7 @@
             }
           },
           "title": "Kiddy Kikz",
-          "text": "Younger children can come and learn the basics <br>to be ready to join a team as they progress &nbsp;<br>Tuesday <br>5pm-6pm \n<br>at the DeBrus ground\n<br>Click below to find out more.",
+          "text": "Younger children can come and learn the basics <br>to be ready to join a team as they progress &nbsp;<br>Tuesday <br>4:30pm-5:30pm \n<br>at the Laurence Jackson School\n<br>Sports Village\n<br>Guisborough<br>Click below to find out more.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/KiddyKickz/?ref=py_c\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2486,7 +2478,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -2497,7 +2488,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -2717,7 +2707,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -2728,7 +2717,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -2899,7 +2887,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -2910,7 +2897,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3130,7 +3116,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3141,7 +3126,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3508,7 +3492,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3519,7 +3502,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3739,7 +3721,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3750,7 +3731,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3921,7 +3901,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -3932,7 +3911,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4152,7 +4130,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4163,7 +4140,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4353,7 +4329,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4364,7 +4339,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4584,7 +4558,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4595,7 +4568,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5303,7 +5275,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5314,7 +5285,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5534,7 +5504,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5545,7 +5514,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5716,7 +5684,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5727,7 +5694,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5947,7 +5913,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5958,7 +5923,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6129,7 +6093,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6140,7 +6103,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6360,7 +6322,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6371,7 +6332,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6542,7 +6502,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6553,7 +6512,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6773,7 +6731,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6784,7 +6741,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6955,7 +6911,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -6966,7 +6921,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7186,7 +7140,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7197,7 +7150,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7368,7 +7320,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7379,7 +7330,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7600,7 +7550,8 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "newWindow": false
             }
           },
           "media2": {
@@ -7610,7 +7561,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7781,7 +7731,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -7792,7 +7741,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -8012,7 +7960,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -8023,7 +7970,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -8372,7 +8318,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85049.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85054.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8386,7 +8332,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19145.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19150.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8398,7 +8344,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18751.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8410,7 +8356,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18547.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18552.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8422,7 +8368,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18848.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18853.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
