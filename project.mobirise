@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page16.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85059.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85064.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19155.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19160.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18756.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18761.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18557.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18562.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18858.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18863.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4861,7 +4861,6 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -4872,7 +4871,6 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5092,7 +5090,6 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -5103,7 +5100,6 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
@@ -8318,7 +8314,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85059.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85064.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8332,7 +8328,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19155.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19160.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8344,7 +8340,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18756.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18761.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8356,7 +8352,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18557.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18562.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8368,7 +8364,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18858.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18863.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
