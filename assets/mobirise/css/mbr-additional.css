@@ -720,6 +720,13 @@ h6,
 #features3-39 H5 {
   color: #ffffff;
 }
+#msg-box3-5j .mbr-section-title,
+#msg-box3-5j p {
+  color: #000;
+}
+#msg-box3-5j .mbr-section-title {
+  font-size: 46px;
+}
 #header3-1g .mbr-section-title,
 #header3-1g .mbr-section-subtitle {
   text-align: center;
@@ -2344,6 +2351,9 @@ h6,
 #msg-box3-4q .mbr-section-title,
 #msg-box3-4q p {
   color: #000;
+}
+#msg-box3-4q .mbr-section-title {
+  font-size: 46px;
 }
 #header3-4w .mbr-section-title,
 #header3-4w .mbr-section-subtitle {
