@@ -1817,6 +1817,10 @@ h6,
 #header3-3m .mbr-section-subtitle {
   text-align: center;
 }
+#content1-5b P {
+  color: #ffffff;
+  text-align: center;
+}
 #features6-3n P {
   color: #f3c649;
 }
@@ -2069,92 +2073,6 @@ h6,
   color: #ffffff;
 }
 #features6-42 B {
-  color: #000440;
-}
-#header3-44 .mbr-section-title,
-#header3-44 .mbr-section-subtitle {
-  text-align: center;
-}
-#features6-45 P {
-  color: #f3c649;
-}
-#features6-45 H4 {
-  color: #f3c649;
-}
-#menu-46 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-46 .navbar-caption {
-  color: #ffffff;
-}
-#menu-46 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-46 .link,
-#menu-46 .dropdown-item {
-  color: #ffffff;
-}
-#menu-46 .link {
-  font-size: 1.15rem;
-}
-#menu-46 .dropdown-item,
-#menu-46 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
-}
-#menu-46 .link:hover,
-#menu-46 .dropdown-item:hover,
-#menu-46 .link:focus,
-#menu-46 .dropdown-item:focus {
-  color: #2969b0;
-}
-#menu-46 .link[aria-expanded="true"],
-#menu-46 .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-46 .nav-dropdown-sm .link:focus,
-#menu-46 .nav-dropdown-sm .link:hover,
-#menu-46 .nav-dropdown-sm .dropdown-item:focus,
-#menu-46 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-46 .navbar,
-#menu-46 .nav-dropdown-sm,
-#menu-46 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-46 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-46 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-46 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-46 .bg-color.transparent.opened .link:hover,
-#menu-46 .bg-color.transparent.opened .link:focus {
-  color: #2969b0;
-}
-#menu-46 .link[aria-expanded="true"],
-#menu-46 .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
-}
-#menu-46.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-46 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-46 .close-icon::before,
-#menu-46 .close-icon::after {
-  background-color: #ffffff;
-}
-#features6-48 P {
-  color: #ffffff;
-}
-#features6-48 H4 {
-  color: #ffffff;
-}
-#features6-48 B {
   color: #000440;
 }
 #header3-4a .mbr-section-title,
