@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page24.html",
+    "currentPage": "page16.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85099.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8504.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19195.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18796.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18597.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18898.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1883.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4838,7 +4838,7 @@
           "caption1": "Manager : Chris Twiby<br>Asst Coach : Paul Nevitt<br>Secretary : Aimee Watson",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Fridays 5 pm - 6 pm \n<br>Laurence Jackson School Sports Village\n<br> Indoor training<br><br>&nbsp;",
+          "caption2": "Fridays 5 pm - 6 pm \n<br>DeBrus Centre<br> Indoor training<br><br>&nbsp;",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -8230,7 +8230,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85099.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8504.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8244,7 +8244,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19195.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8256,7 +8256,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18796.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8268,7 +8268,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18597.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8280,7 +8280,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18898.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x1883.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
