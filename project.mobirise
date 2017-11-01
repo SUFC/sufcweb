@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page24.html",
+    "currentPage": "index.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -275,17 +275,17 @@
             }
           },
           "title1": "FA Charter Standard Club",
-          "subtitle1": "<br>Qualified coaches",
-          "caption1": "<br><br>Find Out More About us",
+          "subtitle1": "<br>Qualified coaches<br><br>Find Out More About us<br><br>",
+          "caption1": "",
           "title2": "Boys Teams",
-          "subtitle2": "<br>All ages and abilities catered for",
-          "caption2": "<br><br>Take a look at the boys section",
+          "subtitle2": "<br>All ages and abilities catered for<br>Find Out More About us<br><br><br>",
+          "caption2": "",
           "title3": "Girls &nbsp;and Ladies Teams",
-          "subtitle3": "<br>Girls football is a fast growing sport<br>Our first girls teams have progressed <br>to enter the Ladies leagues",
-          "caption3": "Take a look at the girls section",
+          "subtitle3": "<br>Girls football is a fast growing sport<br>Our first girls teams have progressed <br>to enter the Ladies leagues.<br>Find Out More About us",
+          "caption3": "",
           "title4": "Female Football Factory<br>",
-          "subtitle4": "<br>Gives girls the freedom to develop",
-          "caption4": "<p><span style=\"background-color: initial; font-size: 1rem;\">See our Female&nbsp;football factory and</span><br></p><p>Kiddy Kikz for younger children&nbsp;</p>",
+          "subtitle4": "<br>Gives girls the freedom to develop<br>Female football factory and\r<div>\r</div><div>Kiddy Kikz for younger children&nbsp;</div>",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -308,10 +308,12 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             },
             "H5": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           }
         },
@@ -894,7 +896,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85047.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85051.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +910,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19144.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19148.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +922,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18749.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +934,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18546.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18550.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7660,7 +7662,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85047.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85051.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7674,7 +7676,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19144.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19148.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7686,7 +7688,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18749.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7698,7 +7700,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18546.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18550.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8006,7 +8008,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85047.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85051.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8020,7 +8022,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19144.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19148.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8032,7 +8034,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18749.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8044,7 +8046,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18546.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18550.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
