@@ -2489,3 +2489,94 @@ h6,
 #menu-4r .close-icon::after {
   background-color: #ffffff;
 }
+#header3-54 .mbr-section-title,
+#header3-54 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-55 P {
+  color: #ffffff;
+  text-align: center;
+}
+#features6-56 P {
+  color: #f3c649;
+}
+#features6-56 H4 {
+  color: #f3c649;
+}
+#menu-57 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-57 .navbar-caption {
+  color: #ffffff;
+}
+#menu-57 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-57 .link,
+#menu-57 .dropdown-item {
+  color: #ffffff;
+}
+#menu-57 .link {
+  font-size: 1.15rem;
+}
+#menu-57 .dropdown-item,
+#menu-57 .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#menu-57 .link:hover,
+#menu-57 .dropdown-item:hover,
+#menu-57 .link:focus,
+#menu-57 .dropdown-item:focus {
+  color: #2969b0;
+}
+#menu-57 .link[aria-expanded="true"],
+#menu-57 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-57 .nav-dropdown-sm .link:focus,
+#menu-57 .nav-dropdown-sm .link:hover,
+#menu-57 .nav-dropdown-sm .dropdown-item:focus,
+#menu-57 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-57 .navbar,
+#menu-57 .nav-dropdown-sm,
+#menu-57 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-57 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-57 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-57 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-57 .bg-color.transparent.opened .link:hover,
+#menu-57 .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#menu-57 .link[aria-expanded="true"],
+#menu-57 .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#menu-57.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-57 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-57 .close-icon::before,
+#menu-57 .close-icon::after {
+  background-color: #ffffff;
+}
+#features6-59 P {
+  color: #ffffff;
+}
+#features6-59 H4 {
+  color: #ffffff;
+}
+#features6-59 B {
+  color: #000440;
+  font-size: 30px;
+}
