@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page22.html",
+    "currentPage": "page26.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -894,7 +894,7 @@
             "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +920,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -944,7 +944,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7622,7 +7622,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7636,7 +7636,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7648,7 +7648,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7660,7 +7660,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7672,7 +7672,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7968,7 +7968,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85034.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85039.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7982,7 +7982,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19130.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x19135.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7994,7 +7994,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18731.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x18736.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8006,7 +8006,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18532.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18537.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8018,7 +8018,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18833.png",
+              "src": "@PROJECT_PATH@/assets/images/u12gr-251x18838.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8338,7 +8338,7 @@
             "paddingBottom": 1,
             "bgColor": "#2969b0"
           },
-          "text": "<p>Skelton United Under 9 Uniteds (boys) TJFA Division 3</p><p>A group of 12 local lads from different schools, who love playing football. &nbsp;They joined the club without really knowing each other have grown together as a team &nbsp;become great friends. The boys were promoted last year after losing only once all season, which is testament to the fun training sessions, that allow the boys to improve individually and progress as a team, playing a positive brand of football.</p><p><br></p>",
+          "text": "<p>Skelton United Under 9 (aka United) &nbsp;TJFA Division 3</p><p>A group of 12 local lads from different schools, who love playing football. &nbsp;They joined the club without really knowing each other have grown together as a team &nbsp;become great friends. The boys were promoted last year after losing only once all season, which is testament to the fun training sessions, that allow the boys to improve individually and progress as a team, playing a positive brand of football.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
