@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 206,
+    "uniqCompNum": 207,
     "versionPublish": "4.3.1",
     "favicon": "",
     "noImageResize": "",
@@ -896,7 +896,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8507.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85011.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -910,7 +910,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1918.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -922,7 +922,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1875.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1879.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -934,7 +934,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1856.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18510.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1096,6 +1096,25 @@
           ],
           "_name": "header3",
           "_anchor": "header3-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text": "<p>The Lionessess are a great group of girls drawn from all over East Cleveland.</p><p>They are a newly formed, fun loving team who play every week in the North Riding and TEes Valley Girls League.</p><p>Along with our friends from the other girls teams we were featured in the FA Girls Football Week 2018</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-5q"
         },
         {
           "_inherit": "features3",
@@ -7773,7 +7792,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8507.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85011.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7787,7 +7806,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1918.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7799,7 +7818,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1875.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1879.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7811,7 +7830,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1856.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18510.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8119,7 +8138,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8507.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85011.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8133,7 +8152,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1918.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8145,7 +8164,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1875.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1879.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8157,7 +8176,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1856.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x18510.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
