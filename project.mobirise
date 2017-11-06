@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "name": "SUFC",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 200,
+    "uniqCompNum": 205,
     "versionPublish": "4.3.1",
     "favicon": "",
     "noImageResize": "",
@@ -896,7 +896,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85051.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8503.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -910,7 +910,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19148.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -922,7 +922,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18749.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -934,7 +934,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18550.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1476,6 +1476,116 @@
           ],
           "_name": "feed",
           "_anchor": "feed-w"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1620x1080-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-720x1080-720x1080.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1079x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1079x1080-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/u12gr-251x188.png",
+                "thumb": "@PROJECT_PATH@/assets/images/u12gr-251x188-251x188.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/u8g-1-282x191.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/u8g-1-282x191-282x191.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/girls-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/girls-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/u12g-1-288x185.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/u12g-1-288x185-288x185.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-5n"
         }
       ]
     },
@@ -5960,7 +6070,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.tjfa.co.uk/divisions\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page18.html#features6-3q\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -6531,7 +6641,7 @@
           ],
           "title1": "Team Officials",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Manager : Daniel Stainthorpe\n<br>Asst Coach : Dominic Tokarski\n<br>Asst Coach :&nbsp;Liam Ball ",
+          "caption1": "Manager : Daniel Stainthorpe\n<br>Coach : Dominic Tokarski\n<br>Asst Coach :&nbsp;Liam Ball<br>Asst Coach : Simon Best<br>Secretary : Lindsey Rutland ",
           "title2": "Training Times",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Thursday\t<br>6pm - 7pm<br>\tLaurence Jackson School Sports Village,<br><br>&nbsp;",
@@ -6761,10 +6871,10 @@
           ],
           "title1": "Leagues",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "TJFA League<br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br>",
+          "caption1": "TJFA League<br><br>This will open a new window and navigate away <br>from SUFC website to showi the <br>FA Fulltime League tables<br><br><br>",
           "title2": "Team Sponsorss",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We would like to thank our Team Sponsors<br><br><b>We are looking for sponsors for this team&nbsp;</b><br><br>Great sponsors help make great teams<br>Click this button for information on sponsorship",
+          "caption2": "We would like to thank our Team Sponsors<br><br><b>Skelton Coaches&nbsp;</b><br><br>Great sponsors help make great teams<br>Click this button for information on sponsorship",
           "title3": "",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -6778,7 +6888,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.tjfa.co.uk/divisions\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.skeltoncoaches.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://full-time.thefa.com/ProcessPublicSelect.do?psSelectedSeason=196168829&amp;psSelectedDivision=140609579&amp;psSelectedCompetition=0&amp;psSelectedLeague=3410011\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -6792,7 +6902,8 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#000440"
+              "color": "#000440",
+              "font-size": "24px"
             }
           },
           "_anchor": "features6-42"
@@ -7662,7 +7773,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85051.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8503.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7676,7 +7787,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19148.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7688,7 +7799,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18749.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7700,7 +7811,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18550.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8008,7 +8119,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x85051.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8503.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8022,7 +8133,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x19148.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8034,7 +8145,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x18749.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8046,7 +8157,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x18550.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
