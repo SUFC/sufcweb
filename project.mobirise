@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 205,
+    "uniqCompNum": 206,
     "versionPublish": "4.3.1",
     "favicon": "",
     "noImageResize": "",
@@ -896,7 +896,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8503.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8507.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -910,7 +910,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1914.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -922,7 +922,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1875.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -934,7 +934,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1856.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1456,7 +1456,7 @@
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "postToLoad": 3,
             "facebook": "https://www.facebook.com/Skelton-United-Football-Club-168236499868665/",
             "twitter": "",
@@ -1479,13 +1479,13 @@
         },
         {
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": false,
             "spacing": "0",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "filterBgColor": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#b8312f",
             "showText": false,
             "filter": false,
             "images": [
@@ -1505,19 +1505,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-720x1080-720x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kkicks-1-450x320.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kkicks-1-450x320-450x320.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1079x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1079x1080-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ball2-1-207x160.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ball2-1-207x160-207x160.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -1549,11 +1549,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/u8g-1-282x191.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/u8g-1-282x191-282x191.jpg",
+                "image": "@PROJECT_PATH@/assets/images/football-boots-198704-552x368.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/football-boots-198704-552x368-552x368.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -7773,7 +7773,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8503.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8507.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7787,7 +7787,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1914.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7799,7 +7799,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1875.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7811,7 +7811,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1856.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8119,7 +8119,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8503.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8507.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8133,7 +8133,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1914.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8145,7 +8145,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1875.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8157,7 +8157,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u12g-288x1852.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u12g-288x1856.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
