@@ -691,14 +691,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x191.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-1-288x185.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -894,7 +893,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8501.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -908,7 +907,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x191.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -920,7 +919,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1870.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7790,7 +7789,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8501.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -7804,19 +7803,18 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8b-288x185.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1870.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7932,7 +7930,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x191.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x1912.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8136,7 +8134,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blured-850x8501.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -8150,7 +8148,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u8g-282x1910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u8g-282x191.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8162,7 +8160,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u10g-250x1871.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u10g-250x1870.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
