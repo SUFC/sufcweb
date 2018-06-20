@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-24_1456",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "versionFirst": "4.3.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 51,
     "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2065,15 +2065,33 @@
           "_params": {}
         },
         {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>&nbsp;</b></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qVwyhNW7Yj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-1d"
+        },
+        {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "postToLoad": "6",
-            "facebook": "https://en-gb.facebook.com/Skelton-United-Football-Club-168236499868665/",
-            "twitter": "",
-            "google": "",
-            "youtube": "",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "Skelton United Football Club",
+            "twitter": "mobirise",
+            "google": "+mobirise",
+            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
             "bgColorRadio": true,
             "bgColor": "#149dcc",
             "bgImageRadio": false,
@@ -2087,7 +2105,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-1a"
+          "_anchor": "feed-1e"
         }
       ]
     }

@@ -3188,3 +3188,12 @@ body {
 .cid-qQSuVf0nGi .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qVwyhNW7Yj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #149dcc;
+}
+.cid-qVwyhNW7Yj .mbr-text,
+.cid-qVwyhNW7Yj blockquote {
+  color: #767676;
+}
