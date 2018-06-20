@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-24_1456",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1035,7 +1035,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Page 2",
+        "title": "Location",
         "order": 2
       },
       "components": [
@@ -1655,7 +1655,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "Page 3",
+        "title": "Facebook",
         "order": 1
       },
       "components": [
@@ -2089,9 +2089,9 @@
             "paddingBottom": 0,
             "postToLoad": 3,
             "facebook": "Skelton United Football Club",
-            "twitter": "mobirise",
-            "google": "+mobirise",
-            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
+            "twitter": "",
+            "google": "",
+            "youtube": "",
             "bgColorRadio": true,
             "bgColor": "#149dcc",
             "bgImageRadio": false,
