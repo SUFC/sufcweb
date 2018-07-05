@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-04-24_1456",
-    "currentPage": "page3.html",
+    "name": "sufc hbk",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,11 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
