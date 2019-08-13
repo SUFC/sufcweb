@@ -2402,6 +2402,39 @@ body {
   border-radius: 50%;
   content: '✓';
 }
+.cid-rz11VGc0yD {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rz11VGc0yD .counter-container {
+  color: #767676;
+}
+.cid-rz11VGc0yD .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rz11VGc0yD .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rz11VGc0yD .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
 .cid-qWmuFun6fb {
   padding-top: 15px;
   padding-bottom: 15px;
