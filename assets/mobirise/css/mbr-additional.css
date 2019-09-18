@@ -3898,6 +3898,54 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rCr3eki08G {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/res3-777x214.jpg");
+}
+.cid-rCr3eki08G .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rCr3eki08G .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-rCr3eki08G .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rCr3eki08G .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rCr3eki08G .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rCr3eki08G .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rCr3eki08G .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rCr3eki08G .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rCr3eki08G .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-rCr3eki08G .user_text {
+  text-align: left;
+}
 .cid-qQSuVf0nGi .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -4286,46 +4334,6 @@ body {
 .cid-qQSuVf0nGi .nav-link:hover,
 .cid-qQSuVf0nGi .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-qWmcQlydXt {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qWmcQlydXt h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qWmcQlydXt p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-qWmcQlydXt .card-img {
-  text-align: left;
-  -webkit-flex: 1 0 auto;
-  flex: 1 0 auto;
-  width: auto;
-}
-.cid-qWmcQlydXt .card-img span {
-  font-size: 72px;
-  color: #ff3366;
-}
-.cid-qWmcQlydXt .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-qWmcQlydXt .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-  .cid-qWmcQlydXt .card-box {
-    padding-left: 0;
-  }
-}
-.cid-qWmcQlydXt P {
-  color: #0f7699;
 }
 .cid-qWmdDgqhrx {
   padding-top: 30px;
