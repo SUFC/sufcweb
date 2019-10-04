@@ -4599,7 +4599,7 @@
               }
             },
             ".mbr-text UL": {
-              "color": "#333333"
+              "color": "#767676"
             }
           },
           "_name": "content12",
