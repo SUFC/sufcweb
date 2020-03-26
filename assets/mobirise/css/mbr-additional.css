@@ -1383,6 +1383,8 @@ body {
   }
 }
 .cid-qQ918ee9B7 {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/pitch-300x186.jpg");
 }
 .cid-qQ918ee9B7 .icons-media-container {
@@ -2075,8 +2077,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qWVmR8AltI {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #e71f17;
 }
 .cid-qWVmR8AltI h4 {
