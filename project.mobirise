@@ -36,7 +36,7 @@
       ]
     },
     "versionFirst": "4.3.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 128,
     "versionPublish": "4.9.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -6304,6 +6304,79 @@
       "components": [
         {
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    <br><br>Training During Covid 19</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Each Child MUST be accompanied By a PARENT for the whole session in case of illness or if First Aid has to be administered <br><br> Parents must adhere to the 2m social distance rule on the side lines and from other people BUT must remain in sight of their children at ALL times .\n<br><br><div>Please enter and exit the site from the car park. &nbsp;Keep to the left of the entrance way to maintain social distance.</div><br><div>\n</div><div>There is to be <b>NO</b> <b>games </b>as <b>NO contact</b> is  allowed. \n</div><div>Individual skills and fitness training only.\n</div><div>\n</div><div>Each child must have or be provided with their own ball.\n</div><div><br></div><div>\n</div><div><b>All COACHES &amp; CHILDREN</b> must use hand sanitizer when they arrive <b>and </b>when they leave .\n</div><div>\n</div><div>All Equipment MUST  be cleaned before starting and at the end of each session .\n</div><div><br></div><br><div>The containers are NOT to be Accessed at anytime . So each coach must have all equipment to hand .\n</div><div><br></div><br><div>All cleaning products / hand sanitizer will  be supplied to each team. Ensure that you have your pack before commencinf training.</div><br><div>\n</div><div>Good Practice is to set up a cleaning station which can be accessed one person at a time.\n</div><br><div>Information sheets can be downloaded below (as required)</div><div><br></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s1YkT6fJrF",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-3j"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>SUFC Covid 19 Training Consent -</b>Training consent during Covid 19 &nbsp; &nbsp;&nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/SUFC_Covid_Consent_June_2020%20(1).pdf?raw=True\">D</a><a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/SUFC_Covid_Consent_June_2020%20(1).pdf?raw=True\">ownload</a></li><li><b>FA Covid 19 Quick Reference -</b>Guide to Permitted Activity during Covid 19 &nbsp; &nbsp;<b>      <a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/IMG_3786.JPG?Raw=True\">Download</a></b></li><li><b>FA Parents guide&nbsp;</b>- football-activity-guidance-for-parents-and-carers. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/football-activity-guidance-for-parents-and-carers-hi-res%20(1).pdf?raw=true\">Download</a></li>\n                    <li><b>FA Coaches Guide</b> - football-activity-guidance-for-coaches &nbsp; &nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/football-activity-guidance-for-coaches-hi-res%20(1).pdf?raw=true\"> &nbsp;Download</a></li>\n                    <li><b>FA Facilities Guide</b> - football-activity-guidance-for-outdoor-football-facilities &nbsp; &nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/football-activity-guidance-for-providers-of-outdoor-football-facilities-hi-res%20(1).pdf?raw=true\">Download</a></li><li><b>DeBrus Risk Assessment</b> -Risk Assessment for the DeBrus Site &nbsp; &nbsp; &nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/V2-Risk-Assessment-Coronavirus%20rev%203%20-%20Football.pdf?raw=true\">Download</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qWVoyCpK18",
+          "_anchor": "content12-29",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
             ".navbar": {
               "padding": ".5rem 0",
               "background": "@menuBgColor",
@@ -6705,61 +6778,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".counter-container": {
-              "color": "#767676",
-              "ul": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "1rem",
-                  "& when (@stylizedCounters)": {
-                    "list-style": "none",
-                    "&:before": {
-                      "position": "absolute",
-                      "left": "0px",
-                      "margin-top": "-10px",
-                      "padding-top": "3px",
-                      "content": "''",
-                      "display": "inline-block",
-                      "text-align": "center",
-                      "margin": "5px 10px",
-                      "line-height": "20px",
-                      "transition": "all .2s",
-                      "color": "contrast(@counterColor)",
-                      "background": "@counterColor",
-                      "width": "25px",
-                      "height": "25px",
-                      "border-radius": "50%",
-                      "& when (@countersType = 'circle')": {
-                        "background": "none",
-                        "border": "1px solid @counterColor",
-                        "color": "@counterColor"
-                      },
-                      "& when (@countersType = 'square')": {
-                        "border-radius": "0"
-                      },
-                      "& when (@mark)": {
-                        "content": "'✓'"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>FA Covid 19 Quick Reference -</b>Guide to Permitted Activity during Covid 19 &nbsp; &nbsp;<b>      <a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/IMG_3786.JPG?Raw=True\">Download</a></b></li><li><b>FA Parents guide&nbsp;</b>- football-activity-guidance-for-parents-and-carers. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/football-activity-guidance-for-parents-and-carers-hi-res%20(1).pdf?raw=true\">Download</a></li>\n                    <li><b>FA Coaches Guide</b> - football-activity-guidance-for-coaches &nbsp; &nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/football-activity-guidance-for-coaches-hi-res%20(1).pdf?raw=true\"> &nbsp;Download</a></li>\n                    <li><b>FA Facilities Guide</b> - football-activity-guidance-for-outdoor-football-facilities &nbsp; &nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/football-activity-guidance-for-providers-of-outdoor-football-facilities-hi-res%20(1).pdf?raw=true\">Download</a></li><li><b>DeBrus Risk Assessment</b> -Risk Assessment for the DeBrus Site &nbsp; &nbsp; &nbsp;<a href=\"https://github.com/SUFC/sufcweb/blob/gh-pages/assets/V2-Risk-Assessment-Coronavirus%20rev%203%20-%20Football.pdf?raw=true\">Download</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qWVoyCpK18",
-          "_anchor": "content12-29",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
