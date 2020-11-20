@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sufc hbk",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -417,8 +417,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/16x9-getting-started-1086x611.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/respect-1695x1093.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -430,7 +430,7 @@
                 "title": "FULL SCREEN SLIDER",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<a href=\"page9.html\">Click here for more</a><br><a href=\"page9.html\">information</a>",
+                "text": "<a href=\"https://www.northridingfa.com/about/respect\">Click here for more</a><br><a href=\"https://www.northridingfa.com/about/respect\">information</a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -452,7 +452,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/csproudtobe-newsltr-800x450-2-800x450.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
