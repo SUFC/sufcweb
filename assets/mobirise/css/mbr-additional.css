@@ -1391,29 +1391,6 @@ body {
 .cid-s1YrHt05kz blockquote {
   color: #767676;
 }
-.cid-s1YqVE0esL {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #f9f295;
-}
-.cid-s1YqVE0esL .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s1YqVE0esL .section-text {
-  padding: 2rem 0;
-}
-.cid-s1YqVE0esL .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s1YqVE0esL .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-qQ918ee9B7 {
   padding-top: 90px;
   padding-bottom: 90px;
