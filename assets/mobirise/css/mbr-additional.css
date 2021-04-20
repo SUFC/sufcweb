@@ -1419,30 +1419,19 @@ body {
 .cid-qQ918ee9B7 .card {
   padding-bottom: 1.5rem;
 }
-.cid-sv7ek5bicQ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-sv7wJHztsT {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #333333;
 }
-.cid-sv7ek5bicQ .line {
-  background-color: #ffffff;
+.cid-sv7wJHztsT P {
+  color: #767676;
+}
+.cid-sv7wJHztsT .mbr-text,
+.cid-sv7wJHztsT .mbr-section-btn {
   color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
 }
-.cid-sv7ek5bicQ .section-text {
-  padding: 2rem 0;
-}
-.cid-sv7ek5bicQ .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-sv7ek5bicQ .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-sv7ek5bicQ .section-text B {
+.cid-sv7wJHztsT H1 {
   color: #ffffff;
 }
 .cid-sgSWYXO2oW {
