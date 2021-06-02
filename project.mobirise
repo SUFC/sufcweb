@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sufc hbk",
-    "currentPage": "page9.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
       ]
     },
     "versionFirst": "4.3.1",
-    "uniqCompNum": 126,
+    "uniqCompNum": 127,
     "versionPublish": "4.9.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -5933,6 +5933,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>\n                <b> Skelton United FC</b>&nbsp;are looking for vlounteers and coaches to help with our growing number of teams.</p><p>We have new teams each season formed from our Saturday Club, 4-4-2 development sessions and WIldcats sessions.</p><p>I you are interested in getting involved as a coach, assistant or any other role, please let us know. &nbsp;You can speak to any of our voluneers or contact one of our committee members whose contact details can be found by&nbsp;<a href=\"page5.html\">clicking here</a></p><p>The club will help you obtain your DBS and training to assist you in your chosen role.</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "szbNQrzbk9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-3i"
         },
         {
           "_styles": {
