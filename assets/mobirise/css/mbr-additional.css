@@ -3093,18 +3093,99 @@ section.lazy-placeholder:after {
 .cid-qQSuVf0nGi .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qWlVUNaiXG {
-  padding-top: 120px;
-  padding-bottom: 60px;
+.cid-uBrRZWy1ly {
+  padding-top: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-qWlVUNaiXG .mbr-text,
-.cid-qWlVUNaiXG blockquote {
-  color: #767676;
+.cid-uBrRZWy1ly .title {
+  padding-bottom: 2.5rem;
 }
-.cid-qWlVUNaiXG P {
-  color: #073b4c;
-  text-align: left;
+.cid-uBrRZWy1ly .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-uBrRZWy1ly .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 72px;
+  height: 72px;
+}
+@media (min-width: 992px) {
+  .cid-uBrRZWy1ly .iconfont-wrapper {
+    margin-right: 2rem;
+  }
+}
+.cid-uBrRZWy1ly .iconfont-wrapper .mbr-iconfont {
+  font-size: 72px;
+}
+.cid-uBrRZWy1ly .wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-uBrRZWy1ly .wrapper .iconfont-wrapper {
+    margin: auto;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uBrRZWy1ly .wrapper {
+    flex-wrap: wrap;
+  }
+  .cid-uBrRZWy1ly .wrapper .iconfont-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uBrRZWy1ly .wrapper .b-info {
+  width: 100%;
+}
+.cid-uBrTBPAyz0 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-uBrTBPAyz0 .title {
+  padding-bottom: 2.5rem;
+}
+.cid-uBrTBPAyz0 .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-uBrTBPAyz0 .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 72px;
+  height: 72px;
+}
+@media (min-width: 992px) {
+  .cid-uBrTBPAyz0 .iconfont-wrapper {
+    margin-right: 2rem;
+  }
+}
+.cid-uBrTBPAyz0 .iconfont-wrapper .mbr-iconfont {
+  font-size: 72px;
+}
+.cid-uBrTBPAyz0 .wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-uBrTBPAyz0 .wrapper .iconfont-wrapper {
+    margin: auto;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uBrTBPAyz0 .wrapper {
+    flex-wrap: wrap;
+  }
+  .cid-uBrTBPAyz0 .wrapper .iconfont-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uBrTBPAyz0 .wrapper .b-info {
+  width: 100%;
 }
 .cid-qWVIwTtS01 {
   padding-top: 30px;
